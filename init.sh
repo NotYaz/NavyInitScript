@@ -2,7 +2,7 @@
 
 sudo add-apt-repository ppa:chris-lea/node.js  
 sudo apt-get update  
-sudo apt-get install build-essential nodejs git upstart monit
+sudo apt-get install build-essential nodejs git haproxy
 
 mkdir navyIO
 cd navyIO
